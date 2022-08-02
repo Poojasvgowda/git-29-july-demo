@@ -1,1 +1,1 @@
-file1.txt is added frm console
+file1.txt is added frm console abcdefgh
