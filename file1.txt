@@ -1,1 +1,2 @@
-file1.txt is added frm console abcdefgh
+
+my life my rule 
